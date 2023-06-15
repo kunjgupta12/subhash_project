@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "986954955333",
+    "project_id": "senerity-3930a",
+    "storage_bucket": "senerity-3930a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986954955333:android:7f85f21ff379bface2412c",
+        "android_client_info": {
+          "package_name": "com.example.untitled5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986954955333-7d0degdvv01u1qad0v90sb2fjtpp44od.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4Py0049cS2-GSylLoKW6ivILFvdz5CJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986954955333-7d0degdvv01u1qad0v90sb2fjtpp44od.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
